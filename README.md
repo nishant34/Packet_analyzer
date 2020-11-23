@@ -3,12 +3,7 @@ This code contains the packet_analyzer class to analyze most frequently visted w
 
 # Initial setup for the code
 * Python is required for running the code.
-* Anaconda can be used for managing environments
-* After installing Anaconda create and activate an  evironment using :
-```javascript
-conda create -n myenv
-source activate myenv
-```
+
 * Now put the csv file obtained from wireshark in the same folder as the code and then run the following command:
 ```javascript
 python packet_analyzing.py --kind 1
