@@ -1,7 +1,7 @@
 # Packet_analyzer
 This code contains the packet_analyzer class to analyze most frequently visted website by users by monitoring their traffic using wireshark.
 
-# Initial setup for the code
+# Running the Code
 * Python is required for running the code.
 
 * Now put the csv file obtained from wireshark in the same folder as the code and then run the following command:
